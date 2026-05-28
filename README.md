@@ -183,7 +183,9 @@ Contributions are very welcome! Whether it's a bug fix, a new feature, or improv
 
 ## License
 
-This project does not yet have a license. **Before publishing publicly, add a `LICENSE` file** — see [choosealicense.com](https://choosealicense.com) for guidance. A permissive license such as MIT or Apache 2.0 is a common choice for new open-source Flutter projects.
+LingConnect is released under the **GNU General Public License v3.0** — see the [`LICENSE`](LICENSE) file for the full text.
+
+In short, GPL-3.0 lets anyone use, study, modify, and redistribute this software, **provided that any distributed derivative works are also released under GPL-3.0** (copyleft). For details, see the [GPL-3.0 summary on choosealicense.com](https://choosealicense.com/licenses/gpl-3.0/).
 
 ---
 
